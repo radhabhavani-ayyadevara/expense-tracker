@@ -18,6 +18,7 @@ let ExpenseController = (() => {
         },
 
         getSavingsData() {
+            console.log("test line");
             return savings;
         },
 
